@@ -1,0 +1,11 @@
+Model Information:
+* title:	Yamaha DT
+* source:	https://sketchfab.com/3d-models/yamaha-dt-cd6dd866c4ca466c8c765d6feee205ac
+* author:	Niilo Poutanen (https://sketchfab.com/niilo.poutanen)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Yamaha DT" (https://sketchfab.com/3d-models/yamaha-dt-cd6dd866c4ca466c8c765d6feee205ac) by Niilo Poutanen (https://sketchfab.com/niilo.poutanen) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
